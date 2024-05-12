@@ -1,0 +1,12 @@
+{
+  "ui": {
+    "title": "Order",
+    "orderHistory": "Order History",
+    "statistics": "Statistics"
+  },
+  "menu": {
+    "main-menu": {
+      "title": "Main Menu"
+    }
+  }
+}
